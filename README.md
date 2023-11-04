@@ -7,7 +7,7 @@
 
 ![iPhone Screenshot 1](Screenshots.png)
 
-iPhone  iOS 17.0 or later
+iPhone       iOS 17.0 or later
 
 ---
 
