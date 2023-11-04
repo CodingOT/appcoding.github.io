@@ -4,11 +4,10 @@
 
 ## Simple Rehab
 
-<!-- Assuming you have screenshots available at URLs, replace 'link-to-image' with the actual URLs of your images -->
 
 ![iPhone Screenshot 1](Screenshots.png)
 
-<!-- Make sure your images are the same size for uniformity and adjust them as needed -->
+iPhone  iOS 17.0 or later
 
 ---
 
