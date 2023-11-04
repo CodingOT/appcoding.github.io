@@ -38,13 +38,13 @@ By choosing Simple Rehab, you’re not just picking an app; you’re gaining a p
 
 ### Contact Email
 
-For any inquiries, please contact us at [mailto:simplerehabhelp@gmail.com].
+For any inquiries, please contact via [mailto:simplerehabhelp@gmail.com].
 
 ---
 
 ### Privacy Policy
 
-[Privacy%20Policy.docx].
+Details of of the Privacy Policy can be found within [Privacy%20Policy.docx].
 
 ---
 
