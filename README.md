@@ -42,9 +42,9 @@ For any inquiries, please contact us at [mailto:simplerehabhelp@gmail.com].
 
 ---
 
-### Privacy Document
+### Privacy Policy
 
-Read our [https://github.com/CodingOT/Simple-Rehab/blob/main/Privacy%20Policy.docx].
+[Privacy%20Policy.docx].
 
 ---
 
