@@ -44,7 +44,7 @@ For any inquiries, please contact via [Email](mailto:simplerehabhelp@gmail.com.)
 
 ### Privacy Policy
 
-Privacy details can be found [here](Privacy%20Policy.docx)
+Privacy details can be found [here](Privacy%20Policy.pdf)
 
 ---
 
