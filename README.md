@@ -44,7 +44,7 @@ For any inquiries, please contact us at [mailto:simplerehabhelp@gmail.com].
 
 ### Privacy Document
 
-Read our [Privacy Policy](link-to-privacy-policy).
+Read our [https://github.com/CodingOT/Simple-Rehab/blob/main/Privacy%20Policy.docx].
 
 ---
 
