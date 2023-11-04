@@ -6,10 +6,7 @@
 
 <!-- Assuming you have screenshots available at URLs, replace 'link-to-image' with the actual URLs of your images -->
 
-![iPhone Screenshot 1](link-to-image-1)
-![iPhone Screenshot 2](link-to-image-2)
-![iPhone Screenshot 3](link-to-image-3)
-![iPhone Screenshot 4](link-to-image-4)
+![iPhone Screenshot 1](Screenshots.png)
 
 <!-- Make sure your images are the same size for uniformity and adjust them as needed -->
 
