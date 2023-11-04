@@ -35,7 +35,7 @@ By choosing Simple Rehab, you’re not just picking an app; you’re gaining a p
 
 ### Contact Email
 
-For any inquiries, please contact us at [email@example.com](mailto:email@example.com).
+For any inquiries, please contact us at [mailto:simplerehabhelp@gmail.com].
 
 ---
 
