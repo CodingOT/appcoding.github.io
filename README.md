@@ -28,7 +28,7 @@ Key Features:
 
 Simple Rehab was envisioned to fulfill the needs of its creator but has grown into an app that others may find useful whether recovering from surgery, managing a condition, or working towards physical betterment.
 
-By choosing Simple Rehab, you’re not just picking an app; you’re gaining a partner in recovery. Here’s to moving forward, together, towards a stronger you.
+By choosing Simple Rehab, you’re not just picking an app; you’re gaining a partner in recovery. 
 
 
 ---
