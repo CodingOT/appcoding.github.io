@@ -69,17 +69,24 @@ Simple Mileage is your go-to app for hassle-free mileage tracking. Designed with
 Key Features:
 
 •	Effortless Distance Calculation: Just enter your start and finish addresses, and let Simple Mileage do the rest. It calculates the distance in miles using GPS coordinates captured approximately every 50 meters, ensuring accurate and consistent tracking.
+
 •	Journey Logging: Each trip is logged with details like date, title, start and finish addresses, and the total distance covered. This information is stored locally for easy access and reference.
+
 •	Mileage List & Export: View all your journeys in the Mileage List, complete with cumulative mileage. Need the data for reports or expense tracking? Export your mileage data as a .CSV file with just a tap.
+
 •	User-Friendly Interface: Navigating the app is a breeze. Whether you're starting a new journey, viewing past trips, or exporting data, every feature is just a tap away.
+
 •	Flexible Journey Management: Delete individual journeys or reset your entire mileage list as needed. Manage your data in a way that works for you.
+
 •	Accuracy and Reliability: While keeping simplicity at its core, Simple Mileage offers only a small margin of error (typically +/- 0.1 miles) ensuring high accuracy, when continuously active during your journey.
 
 Who Is It For?
 
 Simple Mileage is ideal for:
 •	Professionals tracking work-related travel.
+
 •	Individuals monitoring personal trips.
+
 •	Anyone needing a quick, reliable way to record distances.
 
 ---
