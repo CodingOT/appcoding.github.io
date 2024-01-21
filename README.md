@@ -34,19 +34,22 @@ By choosing Simple Rehab, you’re not just picking an app; you’re gaining a p
 
 ### Contact Email
 
-For any inquiries, please contact via [Email](mailto:simplerehabhelp@gmail.com.)
+For any Simple Rehab inquiries, please contact via [Email](mailto:simplerehabhelp@gmail.com.)
 
 ---
 
 ### Privacy Policy
 
-Privacy details can be found [here](Privacy%20Policy.pdf)
+Privacy details for Simple Rehab can be found [here](Privacy%20Policy.pdf)
 
 ---
 
 ### Copyright
 
 © 2023 Mark Dempsey. All rights reserved.
+
+
+
 
 
 ## Simple Mileage
@@ -83,13 +86,13 @@ Simple Mileage is ideal for:
 
 ### Contact Email
 
-For any inquiries, please contact via [Email](mailto:simplemileagehelp@gmail.com.)
+For any Simple Mileage inquiries, please contact via [Email](mailto:simplemileagehelp@gmail.com.)
 
 ---
 
 ### Privacy Policy
 
-Privacy details can be found [here](Privacy%20Policy%20Simple%20Mileage.pdf)
+Privacy details for Simple Mileage can be found [here](Privacy%20Policy%20Simple%20Mileage.pdf)
 
 ---
 
