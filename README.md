@@ -83,6 +83,7 @@ Key Features:
 Who Is It For?
 
 Simple Mileage is ideal for:
+
 •	Professionals tracking work-related travel.
 
 •	Individuals monitoring personal trips.
